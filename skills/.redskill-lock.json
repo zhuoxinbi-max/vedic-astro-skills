@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "skills": {
+    "vedic-astrology": {
+      "name": "vedic-astrology",
+      "version": "1.0.12",
+      "source": "redskill",
+      "install_dir": "/home/user/vedic-astro-skills/skills/vedic-astrology",
+      "installed_at": "1783158826971",
+      "sha256": "30f8c8a1ea261f6fd608f10041b94f908a83d9e1582d951776ed5d4d313f0123"
+    }
+  }
+}
